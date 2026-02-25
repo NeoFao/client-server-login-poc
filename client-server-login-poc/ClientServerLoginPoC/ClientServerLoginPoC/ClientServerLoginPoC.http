@@ -1,0 +1,6 @@
+@ClientServerLoginPoC_HostAddress = http://localhost:5004
+
+GET {{ClientServerLoginPoC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
